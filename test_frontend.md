@@ -1,7 +1,7 @@
-# Desafio de BackEnd!
+# Desafio de FrontEnd!
 
 ## Objetivo
-Desenvolver uma página onde o usuário possa pesquisar disponibilidade de hotéis através de um critério e possa visualizar os resultados em uma lista **ordenada pelo hotel mais barato**. 
+Desenvolver uma página onde o usuário possa pesquisar disponibilidade de hotéis através de um critério e possa visualizar os resultados em uma lista **ordenada pelo hotel mais barato**, pelo desktop ou mobile. 
 
 ## Arquivos de ajuda
 Está disponível na pasta **Data** um exemplo de **requisicao.json** e **resposta.json** que deve ser utilizado para efetuar a comunicação com a API.
@@ -39,11 +39,12 @@ Na **requisicao.json** o critério usado foi:
 
 
 # Critério de Avaliação
-Para desenvolvedores Backend, vamos avaliar os seguintes critérios:
- - Performance da Aplicação - Desde a comunicação com a API até a entrega do conteúdo para o usuário;
+Para desenvolvedores FrontEnd, vamos avaliar os seguintes critérios:
+ - Performance no carregamento da página - utilizando ferramentas específicas de performance e otimização;
+ - Layout e responsividade do design; 
  - Legibilidade de código;
- - Arquitetura do projeto utilizada;
  - Documentação de código;
+ 
 
 # Tecnologias utilizadas
 Fica a critério do desenvolvedor escolher qual linguagem utilizará para desenvolver, desde que explique como executar e testar o projeto.
