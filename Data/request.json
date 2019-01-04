@@ -1,0 +1,17 @@
+ {
+	"Credential": {
+		"Username": "{{USER}}",
+		"Password": "{{PASSWORD}}"
+	},
+	"Criteria": {
+		"DestinationId": 1010106,
+		"NumNights": 2,
+		"CheckinDate": "2019-01-10",
+		"MainPaxCountryCodeNationality": "BR",
+		"SearchRooms": [{
+			"NumAdults": 1,
+			"ChildAges": [5],
+			"Quantity": 1
+		}]
+	}
+}

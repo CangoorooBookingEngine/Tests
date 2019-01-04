@@ -1,0 +1,1677 @@
+{
+    "Error": null,
+    "TimeSpan": "2019-01-03 22:37:43",
+    "Token": "0e2e3ea7-86d3-4f28-82d5-cbddab001a5a",
+    "TotalTime": 1.6304156,
+    "Hotels": [
+        {
+            "HotelId": 111664,
+            "IsRecommended": false,
+            "Rooms": [
+                {
+                    "BoardDescription": "Cafe Da Manhã",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11001,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Standard",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 432.6
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 433
+                    }
+                }
+            ]
+        },
+        {
+            "HotelId": 79175,
+            "IsRecommended": false,
+            "Rooms": [
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11001,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Standard Room",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 158.175
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 159
+                    }
+                }
+            ]
+        },
+        {
+            "HotelId": 102386,
+            "IsRecommended": false,
+            "Rooms": [
+                {
+                    "BoardDescription": "Cafe Da Manhã",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11001,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Standard",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 674.7125
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 675
+                    }
+                }
+            ]
+        },
+        {
+            "HotelId": 114113,
+            "IsRecommended": false,
+            "Rooms": [
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11001,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Standard",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 263.275
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 264
+                    }
+                }
+            ]
+        },
+        {
+            "HotelId": 57269,
+            "IsRecommended": false,
+            "Rooms": [
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11001,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Leisure Lodge Room",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 2579.425
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 2580
+                    }
+                }
+            ]
+        },
+        {
+            "HotelId": 1377770,
+            "IsRecommended": false,
+            "Rooms": [
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11001,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "Resort Fee AtProperty: USD 34.06",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "2 Bedroom",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 231.575
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 232
+                    }
+                }
+            ]
+        },
+        {
+            "HotelId": 15433,
+            "IsRecommended": false,
+            "Rooms": [
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11001,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Standard",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 271.175
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 272
+                    }
+                }
+            ]
+        },
+        {
+            "HotelId": 11770,
+            "IsRecommended": false,
+            "Rooms": [
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11001,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "Resort Fee AtProperty: USD 70.00",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Standard",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 412.275
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 413
+                    }
+                }
+            ]
+        },
+        {
+            "HotelId": 11731,
+            "IsRecommended": true,
+            "Rooms": [
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11001,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Standard",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 319.6
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 320
+                    }
+                }
+            ]
+        },
+        {
+            "HotelId": 612602,
+            "IsRecommended": false,
+            "Rooms": [
+                {
+                    "BoardDescription": "Cafe Da Manhã",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11001,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Standard",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 342.2
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 343
+                    }
+                }
+            ]
+        },
+        {
+            "HotelId": 15414,
+            "IsRecommended": false,
+            "Rooms": [
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11001,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "Resort Fee AtProperty: USD 70.00",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Standard",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 458.425
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 459
+                    }
+                }
+            ]
+        },
+        {
+            "HotelId": 11761,
+            "IsRecommended": false,
+            "Rooms": [
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11002,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "Resort Fee AtProperty: USD 29.50",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "3 Bedroom Suite",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 568.175
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 569
+                    }
+                },
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11001,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "Resort Fee AtProperty: USD 29.50",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "2 Bedroom Suite",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 471.325
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 472
+                    }
+                }
+            ]
+        },
+        {
+            "HotelId": 80545,
+            "IsRecommended": false,
+            "Rooms": [
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11001,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Standard",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 306.7
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 307
+                    }
+                }
+            ]
+        },
+        {
+            "HotelId": 13766,
+            "IsRecommended": false,
+            "Rooms": [
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11003,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Tower Room",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 377.7125
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 378
+                    }
+                },
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11002,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Resort Premium",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 313.15
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 314
+                    }
+                },
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11001,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Resort",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 248.575
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 249
+                    }
+                }
+            ]
+        },
+        {
+            "HotelId": 55101,
+            "IsRecommended": false,
+            "Rooms": [
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11002,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "Resort Fee AtProperty: USD 19.98",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "2 Bedroom Deluxe",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 364.8
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 365
+                    }
+                },
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11001,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "Resort Fee AtProperty: USD 19.98",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "2 Bedroom Standard",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 335.7625
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 336
+                    }
+                }
+            ]
+        },
+        {
+            "HotelId": 82382,
+            "IsRecommended": false,
+            "Rooms": [
+                {
+                    "BoardDescription": "Hot Breakfast",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11003,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Penthouse Suite",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 274.4
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 275
+                    }
+                },
+                {
+                    "BoardDescription": "Hot Breakfast",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11002,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Standard Suite",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 242.125
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 243
+                    }
+                },
+                {
+                    "BoardDescription": "Hot Breakfast",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11001,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Studio Suite 1 Queen + Sofa Bed",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 209.85
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 210
+                    }
+                }
+            ]
+        },
+        {
+            "HotelId": 11724,
+            "IsRecommended": false,
+            "Rooms": [
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11002,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "Resort Fee AtProperty: USD 24.00",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Deluxe King",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 190.475
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 191
+                    }
+                },
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11001,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "Resort Fee AtProperty: USD 24.00",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Deluxe 2 Queens",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 190.475
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 191
+                    }
+                }
+            ]
+        },
+        {
+            "HotelId": 11806,
+            "IsRecommended": false,
+            "Rooms": [
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11006,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "Resort Fee AtProperty: USD 44.00",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "2 Bedroom Suite",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 961.875
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 962
+                    }
+                },
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11005,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "Resort Fee AtProperty: USD 44.00",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "1 Bedroom Suite",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 798.8625
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 799
+                    }
+                },
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11004,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "Resort Fee AtProperty: USD 44.00",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Club Room",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 668.425
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 669
+                    }
+                },
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11003,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "Resort Fee AtProperty: USD 44.00",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Studio Suite",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 635.825
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 636
+                    }
+                },
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11002,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "Resort Fee AtProperty: USD 44.00",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "View Room",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 505.4
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 506
+                    }
+                },
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11001,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "Resort Fee AtProperty: USD 44.00",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Standard",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 472.775
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 473
+                    }
+                }
+            ]
+        },
+        {
+            "HotelId": 11807,
+            "IsRecommended": false,
+            "Rooms": [
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11004,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Leisure",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 232.4
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 233
+                    }
+                },
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11003,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Double",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 217.875
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 218
+                    }
+                },
+                {
+                    "BoardDescription": "Cafe Da Manhã",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11002,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Standard",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 213.075
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 214
+                    }
+                },
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11001,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Standard",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 161.425
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 162
+                    }
+                }
+            ]
+        },
+        {
+            "HotelId": 11820,
+            "IsRecommended": false,
+            "Rooms": [
+                {
+                    "BoardDescription": "Cafe Da Manhã",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11002,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Standard",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 213.075
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 214
+                    }
+                },
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11001,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Standard",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 161.425
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 162
+                    }
+                }
+            ]
+        },
+        {
+            "HotelId": 343455,
+            "IsRecommended": true,
+            "Rooms": [
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11002,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "1 Bedroom King",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 277.625
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 278
+                    }
+                },
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11001,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "1 Bedroom 2 Queens",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 255.2
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 256
+                    }
+                }
+            ]
+        },
+        {
+            "HotelId": 11541,
+            "IsRecommended": false,
+            "Rooms": [
+                {
+                    "BoardDescription": "Hot Breakfast",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11001,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Non Refundable Standard ",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 384.175
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 385
+                    }
+                }
+            ]
+        },
+        {
+            "HotelId": 611713,
+            "IsRecommended": false,
+            "Rooms": [
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11003,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Suite",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 290.55
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 291
+                    }
+                },
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11002,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Courtyard",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 225.975
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 226
+                    }
+                },
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11001,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Standard",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 193.7
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 194
+                    }
+                }
+            ]
+        },
+        {
+            "HotelId": 614747,
+            "IsRecommended": false,
+            "Rooms": [
+                {
+                    "BoardDescription": "Breakfast",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11001,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Standard Double + Breakfast",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 577.875
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 578
+                    }
+                }
+            ]
+        },
+        {
+            "HotelId": 622226,
+            "IsRecommended": false,
+            "Rooms": [
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11002,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "Resort Fee AtProperty: USD 27.00",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Three Bedroom",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 359.475
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 360
+                    }
+                },
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11001,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "Resort Fee AtProperty: USD 27.00",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Two Bedroom",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 304.6
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 305
+                    }
+                }
+            ]
+        },
+        {
+            "HotelId": 81851,
+            "IsRecommended": false,
+            "Rooms": [
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11001,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "Resort Fee AtProperty: USD 6.00",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Standard",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 103.3
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 104
+                    }
+                }
+            ]
+        },
+        {
+            "HotelId": 109862,
+            "IsRecommended": false,
+            "Rooms": [
+                {
+                    "BoardDescription": "Cafe Da Manhã",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11004,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Deluxe",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 261.4875
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 262
+                    }
+                },
+                {
+                    "BoardDescription": "Cafe Da Manhã",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11003,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Standard",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 213.0625
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 214
+                    }
+                },
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11002,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Deluxe",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 200.15
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 201
+                    }
+                },
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11001,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Standard",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 151.725
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 152
+                    }
+                }
+            ]
+        },
+        {
+            "HotelId": 617164,
+            "IsRecommended": false,
+            "Rooms": [
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11002,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "2 Bedroom",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 500.375
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 501
+                    }
+                },
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11001,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "1 Bedroom",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 393.85
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 394
+                    }
+                }
+            ]
+        },
+        {
+            "HotelId": 82451,
+            "IsRecommended": true,
+            "Rooms": [
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11002,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "Resort Fee AtProperty: USD 23.00",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "1 Bedroom Suite",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 364.8
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 365
+                    }
+                },
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11001,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "Resort Fee AtProperty: USD 23.00",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Double King Studio",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 332.525
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 333
+                    }
+                }
+            ]
+        },
+        {
+            "HotelId": 148148,
+            "IsRecommended": false,
+            "Rooms": [
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11001,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "2 Bedroom/2 Bath",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 336.5625
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 337
+                    }
+                }
+            ]
+        },
+        {
+            "HotelId": 55093,
+            "IsRecommended": false,
+            "Rooms": [
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11002,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "Resort Fee AtProperty: USD 9.90",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "1 Bedroom 2 Queens",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 222.75
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 223
+                    }
+                },
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11001,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "Resort Fee AtProperty: USD 9.90",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "1 Bedroom King",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 193.7
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 194
+                    }
+                }
+            ]
+        },
+        {
+            "HotelId": 1061316,
+            "IsRecommended": false,
+            "Rooms": [
+                {
+                    "BoardDescription": "Cafe Da Manhã",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11001,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Standard + Breakfast",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 411.6125
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 412
+                    }
+                }
+            ]
+        },
+        {
+            "HotelId": 80913,
+            "IsRecommended": false,
+            "Rooms": [
+                {
+                    "BoardDescription": "Room only",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11001,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Standard Double",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 177.55
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 178
+                    }
+                }
+            ]
+        },
+        {
+            "HotelId": 55134,
+            "IsRecommended": false,
+            "Rooms": [
+                {
+                    "BoardDescription": "Hot Breakfast",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11002,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Non Refundable Standard ",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 384.175
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 385
+                    }
+                },
+                {
+                    "BoardDescription": "Hot Breakfast",
+                    "CancellationPolicies": null,
+                    "ChildAges": [
+                        5
+                    ],
+                    "CustomFields": null,
+                    "Id": 11001,
+                    "IsAvailable": true,
+                    "IsPrePayment": false,
+                    "MoreInformation": "",
+                    "NumAdults": 1,
+                    "PayDirectToHotel": false,
+                    "Quantity": 1,
+                    "RoomDescription": "Standard",
+                    "SellingPricePerRoom": {
+                        "Currency": "USD",
+                        "Value": 384.175
+                    },
+                    "TotalSellingPrice": {
+                        "Currency": "USD",
+                        "Value": 385
+                    }
+                }
+            ]
+        }
+    ],
+    "TotalHotelResults": 34
+}
