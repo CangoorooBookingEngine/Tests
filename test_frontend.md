@@ -17,7 +17,7 @@ Utilize a nossa API REST para efetuar a pesquisa por disponibilidade de hotel, s
 
 URL de Pesquisa: https://pp.cangooroo.net/ws/rest/hotel.svc/Search
 
-Usuário: **candidato_t4w**  
+Usuário: **candidato_t4w**
 Senha: **candit@!2019**
 
 ### Estrutura de campos da requisição:
@@ -37,25 +37,23 @@ Senha: **candit@!2019**
 Na **requisicao.json** o critério usado foi: 
  - Pesquisa em ORLANDO (1010106) - Duas noites - Data de checkin 10/01/2019 - 1 quarto com um adulto e uma criança de 5 anos.
 
-
 # Critério de Avaliação
 Para desenvolvedores FrontEnd, vamos avaliar os seguintes critérios:
- - Performance no carregamento da página - utilizando ferramentas específicas de performance e otimização;
- - Layout e responsividade do design; 
- - Legibilidade de código;
- - Documentação de código;
+ - Reutilização, organização, padronização, legibilidade e documentação de código;
+ - Performance no carregamento da página;
+ - UI, UX e responsividade;
+ - Animações, microinterações e loaders.
  
-
 # Tecnologias utilizadas
 Fica a critério do desenvolvedor escolher qual linguagem utilizará para desenvolver, desde que explique como executar e testar o projeto.
 
 # Tempo de Desenvolvimento
-O Desenvolvedor terá um tempo de **1 semana** para desenvolver o desafio este tempo contará a partir do momento que o link para o desafio foi enviado.
+O Desenvolvedor terá o tempo de **1 semana** para entregar o desafio, que contará a partir do momento em que o link foi enviado.
+
 # Entrega
 O Desenvolvedor poderá disponibilizar o código em seu próprio github ou enviar para o e-mail atila.santos@t4w.com.br o .zip do projeto.
 
-**IMPORTANTE** : Não esquecer de enviar um arquivo explicando como executar/testar o projeto
+**IMPORTANTE**: Não esquecer de enviar um arquivo explicando como executar/testar o projeto.
 
 # Dúvidas
 Entrar em contato através do e-mail: **atila.santos@t4w.com.br**.
-
