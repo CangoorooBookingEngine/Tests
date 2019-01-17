@@ -15,7 +15,7 @@ Os arquivos acima, serão utéis para mostrar informações sobre o hotel, você
 ## API
 Utilize a nossa API REST para efetuar a pesquisa por disponibilidade de hotel, segue abaixo a URL e a credencial de acesso.
 
-URL de Pesquisa: https://pp.cangooroo.net/ws/rest/hotel.svc/Search
+URL de Pesquisa: [POST] https://pp.cangooroo.net/ws/rest/hotel.svc/Search
 
 Usuário: **candidato_t4w**  
 Senha: **candit@!2019**
