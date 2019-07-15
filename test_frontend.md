@@ -3,15 +3,6 @@
 ## Objetivo
 Desenvolver uma página onde o usuário possa pesquisar disponibilidade de hotéis através de um critério e possa visualizar os resultados em uma lista **ordenada pelo hotel mais barato**, pelo desktop ou mobile. 
 
-## Arquivos de ajuda
-Está disponível na pasta **Data** um exemplo de **requisicao.json** e **resposta.json** que deve ser utilizado para efetuar a comunicação com a API.
-Está disponível também os seguintes arquivos: 
-
- - **1003944_hotels_static_data.json** - Arquivo de conteúdo estático de detalhes de hotéis de MIAMI. 
- - **1010106_hotels_static_data.json** - Arquivo de conteúdo estático de detalhes de hotéis de Orlando.
-
-Os arquivos acima, serão utéis para mostrar informações sobre o hotel, você conseguirá cruzar os dados através do ID do hotel que retorna na resposta da pesquisa e o ID do hotel contido no arquivo estático em cada nó de hotel.
-
 ## API
 Utilize a nossa API REST para efetuar a pesquisa por disponibilidade de hotel, segue abaixo a URL e a credencial de acesso.
 
@@ -36,6 +27,25 @@ Senha: **candit@!2019**
 
 Na **requisicao.json** o critério usado foi: 
  - Pesquisa em ORLANDO (1010106) - Duas noites - Data de checkin 10/01/2019 - 1 quarto com um adulto e uma criança de 5 anos.
+
+## Arquivos de ajuda
+Está disponível na pasta **Data** um exemplo de **requisicao.json** e **resposta.json** que deve ser utilizado para efetuar a comunicação com a API.
+
+
+**IMPORTANTE**
+
+Os arquivos abaixo, serão utéis para mostrar informações sobre o hotel, você conseguirá cruzar os dados através do ID do hotel que retorna na resposta da pesquisa e o ID do hotel contido no arquivo estático em cada nó de hotel.
+
+Os aquivos são: 
+ - **1003944_hotels_static_data.json** - Arquivo de conteúdo estático de detalhes de hotéis de MIAMI. 
+ - **1010106_hotels_static_data.json** - Arquivo de conteúdo estático de detalhes de hotéis de Orlando.
+
+Utilize os arquivos estáticos para complementar as informações retornadas pela API, mostrando dados como:
+ - **Fotos**
+ - **Categoria do Hotel**
+ - **Coordenadas de Geolocalização**
+ - E outras informações que desejar.
+
 
 # Critério de Avaliação
 Para desenvolvedores FrontEnd, vamos avaliar os seguintes critérios:
