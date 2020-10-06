@@ -3,34 +3,10 @@
 ## Objetivo
 Desenvolver uma página onde o usuário possa pesquisar disponibilidade de hotéis através de um critério e possa visualizar os resultados em uma lista **ordenada pelo hotel mais barato**, pelo desktop ou mobile. 
 
-## API
-Utilize a nossa API REST para efetuar a pesquisa por disponibilidade de hotel, segue abaixo a URL e a credencial de acesso.
+## Dados estáticos
+Utilize o endereço abaixo para obter os dados dos hotéis no formato JSON
 
-URL de Pesquisa: https://pp.cangooroo.net/ws/rest/hotel.svc/Search
-
-Usuário: **candidato_t4w**
-Senha: **candit@!2019**
-
-### Estrutura de campos da requisição:
-|Nome do Campo| Descrição |
-|--|--|
-| Credential → Username | Usuário de acesso |
-| Credential → Password	| Senha de acesso   |
-| Criteria → DestinationId | Id da Cidade (Utilize os códigos **1003944** (MIAMI) ou **1010106** (ORLANDO) |
-| Criteria → NumNights	| Quantidade de noites da estádia   |
-| Criteria → CheckinDate | Data de Checkin no hotel (Formato: **YYYY-MM-DD**)  |
-| Criteria → MainPaxCountryCodeNationality | Nacionalidade do passageiro (Deixar fixo **BR**) |
-| Criteria → SearchRooms | Lista de Quartos a ser pesquisados |
-| SearchRoom → NumAdults | Quantidade de adultos no quarto | 
-| ChildAges | Lista de idades das crianças |
-| Quantity | Quantidade de quartos |
-
-Na **requisicao.json** o critério usado foi: 
- - Pesquisa em ORLANDO (1010106) - Duas noites - Data de checkin 10/01/2019 - 1 quarto com um adulto e uma criança de 5 anos.
-
-## Arquivos de ajuda
-Está disponível na pasta **Data** um exemplo de **requisicao.json** e **resposta.json** que deve ser utilizado para efetuar a comunicação com a API.
-
+URL: https://pp.cangooroo.net/Resultado/Search.json
 
 **IMPORTANTE**
 
